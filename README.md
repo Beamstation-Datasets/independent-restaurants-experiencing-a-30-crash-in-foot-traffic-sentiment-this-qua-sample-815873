@@ -1,6 +1,6 @@
 # Independent Restaurants Experiencing a 30%+ Crash in Foot Traffic & Sentiment This Quarter in Rhode Island
 
-> Free BeamStation sample export with 14 rows and masked direct-contact fields.
+> Free BeamStation sample export with 13 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `815873` |
 | Location | Rhode Island |
 | Category | Food and Drink |
-| Full dataset size | 141 records |
-| Free sample size | 14 records (9.93%) |
-| Last export | 2026-04-16T23:05:13.398993+00:00 |
+| Full dataset size | 134 records |
+| Free sample size | 13 records (9.7%) |
+| Last export | 2026-04-23T17:36:08.112016+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/independent-restaurants-experiencing-a-30-crash-in-foot-traffic-sentiment-this-qua-sample-815873/releases/download/sample-latest/beamstation_815873_food_and_drink-us-ri_SAMPLE_DIST.csv) |
 
 ## What is in this sample
